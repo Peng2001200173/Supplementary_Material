@@ -1,4 +1,5 @@
 # Supplementary_Material
+There are the Supplementary Materials of the article, which cited as "Zhang, P., Zhang, Z., Yang, J. et al. Machine Learning Prediction of Ore Deposit Genetic Type Using Magnetite Geochemistry. Nat Resour Res (2022). https://doi.org/10.1007/s11053-022-10146-4".
 Detailed descriptions are as follows: 
 Supplementary Material 1: Table S1. LA–ICP‒MS trace element compositions of magnetite from published literature. 
 Supplementary Material 2: Table S2. Processed LA–ICP‒MS data used to build the model, Table S3. The training data in the study. 
